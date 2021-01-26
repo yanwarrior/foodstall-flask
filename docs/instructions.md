@@ -2,6 +2,12 @@
 
 Web-based application to mark food stalls visited by users.
 
+[TOC]
+
+-----
+
+
+
 ## System Requirements
 
 - Python 3.8 (required)
