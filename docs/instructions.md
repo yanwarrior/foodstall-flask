@@ -28,7 +28,7 @@ $ pip install flask pymysql
 
 Create folders and files like the following inside the project root:
 
-![image-20210127040913094](G:\projects\foodstall\docs\assets\image-20210127040913094.png)
+![image-20210127040913094](./assets/image-20210127040913094.png)
 
 > Download Bootstrap and save `bootstrap.min.css` in the` static / css / `folder.
 
@@ -376,4 +376,4 @@ $ python pinfood.py
 
 Open `http://localhost:5000` in a browser:
 
-![image-20210127041742642](G:\projects\foodstall\docs\assets\image-20210127041742642.png)
+![image-20210127041742642](./assets/image-20210127041742642.png)
